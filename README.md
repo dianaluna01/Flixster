@@ -21,8 +21,8 @@ Created by Diana Luna
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/72881310/132897848-7cb4fa97-0c2c-429a-9ec3-aee9ee0f14f5.gif)
 
-<img src="![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/72881310/132897525-bd8dbd06-bcf7-430b-810c-03335e0fdf95.gif)" width=250><br>
 
 ### Notes
 One of my biggest challenges was trying to install cocoapods using Brew because I had a lot of bugs when trying to download, but I finally figured it out after 1 hour of playing around and looking around in the internet.
